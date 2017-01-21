@@ -1,0 +1,3 @@
+rootProject.name = 'Gather'
+
+include ':app'
